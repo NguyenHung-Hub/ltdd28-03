@@ -2,4 +2,11 @@
     <string name="app_name">ltdd_tuan07</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_1">1</string>
+    <string name="ma_giam_gia">Mã giảm giá</string>
+    <string name="ban_co_phieu_qua_tang">Bạn có phiếu quà tặng Tiki/Got it/ Urbox?</string>
+    <string name="nhap_tai_day">Nhập tại đây?</string>
+    <string name="tam_tinh">Tạm tính</string>
+    <string name="_141_800">141.800 đ</string>
+    <string name="tien_hanh_dat_hang">Tiến hành đặt hàng</string>
 </resources>
